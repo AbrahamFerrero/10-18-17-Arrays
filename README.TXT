@@ -1,12 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Please read the pdf file attached to see the Assignment Text with the instructions. Also, I've written some
+annotations at the beginning of every class.
+- Please also mind that the blueJ version I used has been previously modified to work perfectly in case you
+try to run the program and it does not work. Ask me for the right version or google it in clase you want to test my code.
